@@ -30,7 +30,7 @@
 <Tailwind />
 
 <header
-  class="web-only text-center p-4 sm:p-6 bg-green-400 text-white w-screen"
+  class="web-only text-center p-4 sm:p-6 bg-pink-400 text-white w-screen"
 >
   <h1 class="text-4xl">Resumette</h1>
   <h3>
